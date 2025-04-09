@@ -32,7 +32,7 @@ export default function Layout(props) {
     const footer = (
         <footer>
             <p><span className="text-gradient">Caffiend</span> was made by <a href="https://github.com/DeathGun122" target="_blank">Rohan Biswas</a> using <a href="https://react.dev" target="_blank">React</a> and <a href="https://vitejs.dev" target="_blank">Vite</a>.</p><br />
-            <p>Source code available on <a href="https://github.com/DeathGun122/caffiend" target="_blank">GitHub</a>.</p>
+            <p>Source code available on <a href="https://github.com/DeathGun122/caffiend_coffeeTracker" target="_blank">GitHub</a>.</p>
         </footer>
     )
 
